@@ -1,4 +1,6 @@
 arviz
+japanize_matplotlib
+numpy
 pandas
 pymc
-japanize_matplotlib
+seaborn
