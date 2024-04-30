@@ -1,6 +1,9 @@
 arviz
+graphviz
+ipywidgets
 japanize_matplotlib
 numpy
+scipy
 pandas
 pymc
 seaborn
